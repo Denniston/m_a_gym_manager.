@@ -1,0 +1,4 @@
+#Mon Aug 28 22:57:35 BST 2023
+base.0=/Users/madmax/AndroidStudioProjects/m_a_gym_manager/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
